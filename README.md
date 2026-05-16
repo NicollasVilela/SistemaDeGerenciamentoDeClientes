@@ -1,4 +1,4 @@
-# SistemaDeGerenciamentoDeClientes
+# CRM Clientes
 
 Sistema CRM completo para gerenciamento de clientes, autenticação e controle de permissões.
 
@@ -18,3 +18,7 @@ Sistema CRM completo para gerenciamento de clientes, autenticação e controle d
 - Controle de permissões
 - Dashboard administrativo
 - CRUD completo
+
+## Autor
+
+Nicollas Gonçalves Vilela
